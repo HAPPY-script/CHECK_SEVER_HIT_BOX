@@ -11,5 +11,5 @@ elseif placeId == 7449423635 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/HAPPY-script/TICKEN_SELECT_HIT_BOX_PLAYER_NPC/refs/heads/main/TICKEN_SELECT_HIT_BOX_PLAYER_NPC"))()
 else
     -- Nếu không phải cả 3 Sea trên, chạy script ngoại lệ
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/HAPPY-script/HIT_BOX/refs/heads/main/HIT_BOX"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/HAPPY-script/TICKEN_HIT_BOX/refs/heads/main/TICKEN_HITBOX"))()
 end
